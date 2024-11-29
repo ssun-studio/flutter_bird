@@ -17,15 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <!-- Screenshot 1 -->
-  <img src="https://raw.githubusercontent.com/ssun-studio/flutter_bird/main/assets/main_menu.png" width="33%" />
+  <img src="https://raw.githubusercontent.com/ssun-studio/flutter_bird/main/assets/main_menu.png" width="30%" />
   
   <!-- Screenshot 2 -->
-  <img src="https://raw.githubusercontent.com/ssun-studio/flutter_bird/main/assets/restart.png" width="33%" />
+  <img src="https://raw.githubusercontent.com/ssun-studio/flutter_bird/main/assets/restart.png" width="30%" />
 </div>
 
 ## Demo GIF
 
-<!-- Adjust width to make the GIF smaller -->
-<img src="https://raw.githubusercontent.com/ssun-studio/flutter_bird/main/assets/flutter_bird_demo.gif" width="33%" />
+<div style="display: flex; justify-content: center;">
+  <img src="https://raw.githubusercontent.com/ssun-studio/flutter_bird/main/assets/flutter_bird_demo.gif" width="30%" />
+</div>
